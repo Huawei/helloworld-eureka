@@ -94,7 +94,7 @@ under the License.
             <protocol>http</protocol>
             <host>10.10.23.191</host>
             <port>3128</port>
-            <nonProxyHosts>*.huaweicloud.com|*.hwclouds.com|*.spring.io</nonProxyHosts>
+            <nonProxyHosts>*.huaweicloud.com|*.hwclouds.com|</nonProxyHosts>
         </proxy>
         <proxy>
             
@@ -102,7 +102,7 @@ under the License.
             <protocol>https</protocol>
             <host>10.10.23.191</host>
             <port>3128</port>
-            <nonProxyHosts>*.huaweicloud.com|*.hwclouds.com|*.spring.io</nonProxyHosts>
+            <nonProxyHosts>*.huaweicloud.com|*.hwclouds.com|</nonProxyHosts>
         </proxy>
    </proxies>
 
